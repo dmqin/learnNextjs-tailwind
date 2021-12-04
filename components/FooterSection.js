@@ -5,12 +5,13 @@ export default function FooterSection() {
  return (
    <>
 <footer className="bg-gray-800 py-14" id="contact-us" >
-<main >
+       
+        <main >
         
         
-        <h1 className="font-sans font-bold text-5xl text-white mb-12 text-center">
-       CONTACT US
-        </h1> 
+        <h1 className="font-sans font-bold text-5xl text-white mb-12 text-center"> CONTACT US  </h1> 
+        
+        
         <div className="container mx-auto px-10 2xl:px-0 ">
               
               <div className="flex lg:items-center md:items-start flex-wrap xl:w-9/12 mx-auto mt-10">
@@ -68,11 +69,13 @@ export default function FooterSection() {
       </main>
    
       </footer>
-      <div className=" text-center py-4 bg-green-400 text-white ">
-  
-<p className="text-center" >© 2021 | Created By Dmqin</p>
-      </div>
       
+      
+           <div className=" text-center py-4 bg-green-400 text-white ">
+  
+                   <p className="text-center" >© 2021 | Created By Dmqin</p>
+            </div>
+       
 </>
  )
 

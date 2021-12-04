@@ -21,7 +21,7 @@ export default function OwnerSection (){
                             This website has not finished yet because it only shows the frontend or we can say the design. 
                             As a result, some of the buttons can not be used for now and I will add more backend features as soon as possible. 
                             Last but not the least, I wanna say thank you to everyone who already read until here and I hope u guys enjoy this website. 
-                            That's all I can say and stay tuned :)
+                            That's all I can say and stay tuned... :)
                             </p>
                         </div>
                        
