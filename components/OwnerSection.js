@@ -14,7 +14,7 @@ export default function OwnerSection (){
                         </div>
                         <div className="md:w-7/12 w-full px-10">
                             <p className="text-lg leading-relaxed text-justify "> Hi everyone, my name is Desta, you also can call me Dimqin. I am a student and currently studying in a state senior high school in Surakarta, a small city which is located in Central Java, Indonesia. 
-                            I have been learning about full-stack web (full stack is a myth btw) since the beginning of 2021 and I learn this because I have an interest in technology. But, I only code in my leisure time. </p>
+                            I have been learning about how to make website since the beginning of 2021 and I learn this because I have an interest in technology. But, I only code in my leisure time. </p>
                             <p className="text-lg mt-6 leading-relaxed text-justify">
                             Actually, this is my own project, not for work or study, just for fun. 
                             I made this website use javascript language with Next Js library and Tailwind CSS framework. 
@@ -27,7 +27,7 @@ export default function OwnerSection (){
                        
                     </div>
                 </div>
-            </section>
+     </section>
         
     
     

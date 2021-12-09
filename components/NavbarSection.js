@@ -7,6 +7,7 @@ export const NavbarSection = () => {
   const handleClick = () => {
     setActive(!active);
   };
+   
 
   return (
     <>
@@ -45,22 +46,22 @@ export const NavbarSection = () => {
           }   w-full lg:inline-flex lg:flex-grow lg:w-auto`}
         >
           <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto'>
-            <Link href='/'>
+            <Link href="">
               <a className='lg:inline-flex lg:w-auto w-full rounded-full py-3 px-6  text-white font-bold items-center justify-center hover:bg-white hover:text-black '>
                 Home
               </a>
             </Link>
-            <Link href='/'>
+            <Link href='#Features'>
               <a className='lg:inline-flex lg:w-auto w-full rounded-full py-3 px-6  text-white font-bold items-center justify-center hover:bg-white hover:text-black'>
-               Articles
+               Our Features
               </a>
             </Link>
-            <Link href='/'>
+            <Link href='#profile'>
               <a className='lg:inline-flex lg:w-auto w-full rounded-full py-3 px-6  text-white font-bold items-center justify-center hover:bg-white hover:text-black'>
                 About me
               </a>
             </Link>
-            <Link href='/'>
+            <Link href="#contact-us">
               <a className='lg:inline-flex lg:w-auto w-full rounded-full py-3 px-6  text-white font-bold items-center justify-center hover:bg-white hover:text-black'>
               Contact us
               </a>

@@ -1,7 +1,7 @@
 export default function FeatureSection() {
     return (
 <>
- <section className="py-28  bg-blue-800" id="profile " style={{ backgroundColor: "#6900fa" }}>
+ <section className="py-28  bg-blue-800" id="Features" style={{ backgroundColor: "#6900fa" }}>
            <div className="container mx-auto px-10 2xl:px-0 ">
              
                <div className="flex lg:items-center md:items-start flex-wrap xl:w-9/12 mx-auto mt-10">

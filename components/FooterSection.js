@@ -18,7 +18,7 @@ export default function FooterSection() {
                   <div className="md:w-5/12 w-full px-15 mb-10 md:mb-0 text-white grid  ">
                       < div className="pb-20 text-2xl" >
                       <div className="mb-7  "> 
-                        <a className="flex flex-wrap" href="/"  >
+                        <a className="flex flex-wrap" href="mailto:dimqin2004@gmail.com"  >
                           <FaMailBulk/>  <p className="ml-5 text-sm hover:underline"> dimqin2004@gmail.com </p>
                         
                         </a>
@@ -26,12 +26,12 @@ export default function FooterSection() {
                         </div>
                         <div className="mb-7 ">
                         <a  className="flex flex-wrap"  href="/"  >
-                          <FaWhatsapp/>  <p className="ml-5 text-sm hover:underline">62 821 2004 921 </p>
+                          <FaWhatsapp/>  <p className="ml-5 text-sm hover:underline">62 888 700 2211 </p>
                         </a>
                         </div>
                         <div className="mb-7">
                         <a className="flex flex-wrap"  href="/"  >
-                          <FaTelegramPlane/> <p className="ml-5 text-sm hover:underline"> desta_m </p>
+                          <FaTelegramPlane/> <p className="ml-5 text-sm hover:underline"> dmqin </p>
                         </a>
                         </div>
                         <div>
@@ -46,13 +46,13 @@ export default function FooterSection() {
                  <h2 className="text-2xl mb-7 text-center"> Subscribe Now. </h2>
                   <input 
                         type="text"
-                        className="block border border-grey-light w-full p-3 rounded mb-4"
+                        className="block border border-grey-light w-full p-3 rounded mb-4 text-black"
                         name="fullname"
                         placeholder="Full Name" />
-
+                        
                     <input 
                         type="text"
-                        className="block border border-grey-light w-full p-3 rounded mb-4"
+                        className="block border border-grey-light w-full p-3 rounded mb-4 text-black"
                         name="email"
                         placeholder="Email" />
 
@@ -60,7 +60,7 @@ export default function FooterSection() {
 
                     <button
                         type="submit"
-                        className="w-full text-center py-3 rounded bg-green-400 text-white hover:bg-green-dark focus:outline-none my-1"
+                        className="w-full text-center py-3 rounded bg-green-400 text-white hover:bg-green-900 focus:outline-none my-1 "
                     >SUBSCRIBE</button>
                   </div>
                  
