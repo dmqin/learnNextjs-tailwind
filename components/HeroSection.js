@@ -14,11 +14,11 @@ export default function HeroSection() {
     <div className="text-center ">
       
       
-                     <button  className="mt-8 border-solid border-2 border-yellow-400 text-yellow-400 font-bold 
+                 <a href="https://t.me/dmqinxd">  <button  className="mt-8 border-solid border-2 border-yellow-400 text-yellow-400 font-bold 
                              py-3 px-6 rounded-full 
                           hover:text-white hover:bg-yellow-400"  > JOIN US NOW </button> 
          
-
+                 </a>  
     
      </div>
 

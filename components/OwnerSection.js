@@ -18,8 +18,8 @@ export default function OwnerSection (){
                             <p className="text-lg mt-6 leading-relaxed text-justify">
                             Actually, this is my own project, not for work or study, just for fun. 
                             I made this website use javascript language with Next Js library and Tailwind CSS framework. 
-                            This website has not finished yet because it only shows the frontend or we can say the design. 
-                            As a result, some of the buttons can not be used for now and I will add more backend features as soon as possible. 
+                            I want to add more features in this website but, I do not think I have time to finish it soon 
+                            because I am in twelvth grade and a lot of examination coming.
                             Last but not the least, I wanna say thank you to everyone who already read until here and I hope u guys enjoy this website. 
                             That's all I can say and stay tuned... :)
                             </p>

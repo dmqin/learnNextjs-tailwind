@@ -1,4 +1,4 @@
-import { FaTelegramPlane, FaWhatsapp, FaMailBulk, FaInstagram } from "react-icons/fa";
+import { FaGithub, FaWhatsapp, FaMailBulk, FaInstagram } from "react-icons/fa";
 
 
 export default function FooterSection() {
@@ -30,8 +30,8 @@ export default function FooterSection() {
                         </a>
                         </div>
                         <div className="mb-7">
-                        <a className="flex flex-wrap"  href="/"  >
-                          <FaTelegramPlane/> <p className="ml-5 text-sm hover:underline"> dmqin </p>
+                        <a className="flex flex-wrap"  href="https://github.com/dmqin"  >
+                          <FaGithub/> <p className="ml-5 text-sm hover:underline"> dmqin </p>
                         </a>
                         </div>
                         <div>
