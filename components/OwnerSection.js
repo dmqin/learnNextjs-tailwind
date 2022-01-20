@@ -17,10 +17,10 @@ export default function OwnerSection (){
                             I have been learning about how to make website since the beginning of 2021 and I learn this because I have an interest in technology. But, I only code in my leisure time. </p>
                             <p className="text-lg mt-6 leading-relaxed text-justify">
                             Actually, this is my own project, not for work or study, just for fun. 
-                            I made this website use javascript language with Next Js library and Tailwind CSS framework. 
+                            I made this website using javascript language with Next Js library and Tailwind CSS framework. 
                             I want to add more features in this website but, I do not think I have time to finish it soon 
                             because I am in twelvth grade and a lot of examination coming.
-                            Last but not the least, I wanna say thank you to everyone who already read until here and I hope u guys enjoy this website. 
+                            Last but not least, I wanna say thank you to everyone who already read until here and I hope u guys enjoy this website. 
                             That's all I can say and stay tuned... :)
                             </p>
                         </div>
