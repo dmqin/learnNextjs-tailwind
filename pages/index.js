@@ -12,6 +12,7 @@ export default function Home() {
       <Head>
         <title>DESTA IMAM MUTTAQIN</title>
         <link rel="icon" href="/favicon.ico" />
+    <meta name="google-site-verification" content="1GwmVSj-cYNDoFB5piCsBZdmzUlTefvy6Q2XPOhALEw" />
       </Head>
         <NavbarSection/>
         <HeroSection/>
